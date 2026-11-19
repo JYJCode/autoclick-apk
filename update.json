@@ -1,13 +1,13 @@
 {
-  "tag_name": "v0.1.14",
-  "html_url": "https://github.com/JYJCode/autoclick-apk/releases/tag/v0.1.14",
+  "tag_name": "v0.1.15",
+  "html_url": "https://github.com/JYJCode/autoclick-apk/releases/tag/v0.1.15",
   "draft": false,
   "prerelease": false,
   "assets": [
     {
-      "name": "autoclick-v0.1.14.apk",
+      "name": "autoclick-v0.1.15.apk",
       "state": "uploaded",
-      "browser_download_url": "https://github.com/JYJCode/autoclick-apk/releases/download/v0.1.14/autoclick-v0.1.14.apk"
+      "browser_download_url": "https://github.com/JYJCode/autoclick-apk/releases/download/v0.1.15/autoclick-v0.1.15.apk"
     }
   ]
 }
